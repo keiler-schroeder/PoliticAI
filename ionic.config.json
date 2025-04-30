@@ -1,0 +1,7 @@
+{
+  "name": "PoliticAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
