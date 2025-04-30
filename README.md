@@ -1,2 +1,2 @@
 # PoliticAI
-A small pilot project to experiment integrating AI into an app
+A small pilot project to experiment integrating AI into an app test
