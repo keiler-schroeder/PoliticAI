@@ -35,3 +35,20 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import '@ionic/angular/css/palettes/dark.system.css';
+
+ion-header {
+  border-bottom: 3px transparent;
+  border-bottom-color: #6b2a8a;
+  border-bottom-style: inset;
+}
+
+ion-title {
+  color: black;
+  background: transparent;
+}
+
+.top-header {
+  background: linear-gradient(to right, #6b2a8a, #d9b3e0);
+  padding: 0.5rem;
+  border-bottom: none;
+}
