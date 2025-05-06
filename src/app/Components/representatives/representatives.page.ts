@@ -18,8 +18,8 @@ export class RepresentativesPage implements OnInit {
   constructor() { }
 
   async ngOnInit() {
-    let data = await this.civicInfoService.getVoterInfo();
-    console.log("in component ", data);
+    // let data = await this.civicInfoService.getElections();
+    // console.log("in component ", data);
   }
 
 }
