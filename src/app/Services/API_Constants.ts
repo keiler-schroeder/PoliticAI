@@ -1,6 +1,6 @@
 export class API_Constants {
     
-    static readonly GOOGLE_API_KEY = 'AIzaSyCrIPxypDJwDCqAHF8wSWZsbTDVSNdK8Xs';
+    static readonly GOOGLE_API_KEY = 'key';
     
     // Google Civic Information API Constants
     static readonly CIVIC_INFO_BASE_URL = 'https://www.googleapis.com/civicinfo/v2/';
