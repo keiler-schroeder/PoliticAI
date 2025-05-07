@@ -1,6 +1,8 @@
+import { environment } from '../../environments/environment';
+
 export class API_Constants {
     
-    static readonly GOOGLE_API_KEY = 'key';
+    static readonly GOOGLE_API_KEY = environment.googleApiKey;
     
     // Google Civic Information API Constants
     static readonly CIVIC_INFO_BASE_URL = 'https://www.googleapis.com/civicinfo/v2/';
